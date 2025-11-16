@@ -1,0 +1,39 @@
+header{
+
+    height: 200px;
+}
+
+header img{
+
+    background-size: contain;
+}
+
+.mybody{
+
+    background-color: #272b30;
+}
+
+.mynavebar{
+
+    background-color: #3a497b;
+}
+
+.card{
+
+    background-color: #272b30 !important;
+    color: white !important;
+
+}
+
+.freeLabel{
+
+    width: fit-content;
+    background-color: #3a497b ;
+}
+
+.footer{
+    font-size: smaller;
+    background-color: #1f2327;
+
+}
+
